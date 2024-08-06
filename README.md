@@ -1,4 +1,4 @@
-# Portfolio Design - UI/UX
+# Portfolio Design - UI/UX - VanillaJS
 - HTML
 - CSS
 - JavaScript
