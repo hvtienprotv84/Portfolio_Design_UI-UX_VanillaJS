@@ -1,4 +1,4 @@
-# Portfolio Designer UI/UX
+# Portfolio Design - UI/UX
 - HTML
 - CSS
 - JavaScript
