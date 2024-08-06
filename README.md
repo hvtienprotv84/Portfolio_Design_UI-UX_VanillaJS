@@ -10,6 +10,7 @@
 - CSS
 - JavaScript
 - [Gửi Email API (Formspree)](https://formspree.io/)
+- Responsive Website và Mobile
 
 ## Run
 - `Live Server`
