@@ -2,7 +2,7 @@
 - HTML
 - CSS
 - JavaScript
-- !(Gửi Email API (Formspree)) [https://formspree.io/]
+- ![Gửi Email API (Formspree)](https://formspree.io/)
 
 ## Run
 - `Live Server`
